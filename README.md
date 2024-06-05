@@ -1,7 +1,7 @@
 ## Warehouse
-Si scriva un programma in Java per la gestione di un magazzino. 
+Programma in Java per la gestione di un magazzino. 
 
- - Il programma deve leggere da input stringhe multiple che contengono i prodotti da immagazzinare. (Usare Scanner)
+ - Il programma legge da input stringhe che contengono i prodotti da immagazzinare.
  - I prodotti possono essere di tre tipi: tablet, smartphone, notebook.
  - Per ogni prodotto (sia esso tablet, smartphone o notebook) avremo una serie di attributi:
  - Il tipo di dispositivo  (tablet, smartphone o notebook)
@@ -13,12 +13,9 @@ Si scriva un programma in Java per la gestione di un magazzino.
  - Il prezzo di acquisto
  - Il prezzo di vendita
  - Id del dispositivo che rappresenti univocamente il dispositivo nel magazzino.
- - Il programma dovrà avere la gestione del carrello in cui l’utente potrà aggiungere un dispositivo al carrello rimuovendolo dalla lista dei dispositivi attualmente in magazzino quando l’operazione di vendita sarà conclusa.
-  Si suggerisce l’uso dell’input da tastiera per la selezione delle operazioni da compiere (1. aggiunta a magazzino, 2. scarico merce da magazzino, 3. creazione carrello, 4. aggiunta elemento al carrello, ecc.)
+ - Il programma ha una gestione del carrello in cui l’utente potrà aggiungere un dispositivo al carrello rimuovendolo dalla lista dei dispositivi attualmente in magazzino quando l’operazione di vendita sarà conclusa.
 
-### Il programma dovrà avere una serie di metodi:
-#### Ogni metodo dovrà resitutire la lista di dispositivi frutto della ricerca o un errore nel caso in cui la ricerca non produca risultati.
-
+### Il programma ha una serie di metodi:
  - Un metodo per la stampa di tutti i dispositivi a magazzino.
  - Un metodo che permetta di fare la ricerca per tipo di dispositivo.
  - Un metodo che permetta di ricercare per produttore
