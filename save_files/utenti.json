@@ -1,0 +1,5 @@
+<<<<<<< Updated upstream
+{"ClientiRegistrati":[],"MagazzinieriRegistrati":[{"nomeUtente":"julia","password":"julia1","tipo":"magazziniere"}]}
+=======
+{"ClientiRegistrati":[{"carrello":{"prodottiNelCarrello":[]},"nomeUtente":"sbirulo","password":"sbirulino","tipo":"cliente"},{"carrello":{"prodottiNelCarrello":[]},"nomeUtente":"dav","password":"dav","tipo":"cliente"}],"MagazzinieriRegistrati":[{"nomeUtente":"Liborio","password":"lib18","tipo":"magazziniere"},{"nomeUtente":"Giada","password":"giada1","tipo":"magazziniere"}]}
+>>>>>>> Stashed changes
